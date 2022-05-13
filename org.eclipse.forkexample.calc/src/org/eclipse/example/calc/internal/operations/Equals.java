@@ -17,6 +17,7 @@ public class Equals extends AbstractOperation implements Operation {
 	
 	@Override
 	public String getName() {
+		//langweilig
 		return "=";
 	}
 
