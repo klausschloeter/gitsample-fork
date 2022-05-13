@@ -36,6 +36,7 @@ public class Calculator {
 	}
 
 	private void setupDefaultOperations() {
+		// i want more
 		//noch ein sinnvoller Kommentar
 		//es kommen mehr Operationen
 		new Equals();
